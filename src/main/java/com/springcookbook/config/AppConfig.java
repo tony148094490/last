@@ -9,4 +9,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @ComponentScan (basePackages = {"com.springcookbook.controller"})
 public class AppConfig {
 //This is a dummy comment
+//This is anohter dummy comment
 }
