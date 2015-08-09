@@ -6,8 +6,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan (basePackages = {"com.springcookbook.controller"})
+@ComponentScan (basePackages = {"com.springcookbook.controller","com.springcookbook.service"})
 public class AppConfig {
-//This is a dummy comment
-//This is anohter dummy comment
+
 }
